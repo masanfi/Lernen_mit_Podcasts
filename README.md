@@ -7,9 +7,9 @@ ____________________
 
 
 - Wissenschaftliches Dokument
-	Korrekte Einteilung
-	Einheitliche Quellenangabe
-	IT-wissenschaftliches Layout
+	- Korrekte Einteilung
+	- Einheitliche Quellenangabe
+	- IT-wissenschaftliches Layout
 
 - Maximal 10 Seiten, mindestens 7 Seiten
 - Abgabe als PDF und Vortrag als PechaKucha
