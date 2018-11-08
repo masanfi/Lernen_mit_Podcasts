@@ -1,0 +1,97 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Lernen_mit_Podcast.aux
+The style file: apalike.bst
+Database file #1: Literatur.bib
+Warning--entry type for "Merkel2006" isn't style-file defined
+--line 3 of file Literatur.bib
+Warning--entry type for "BBCRadio2010" isn't style-file defined
+--line 15 of file Literatur.bib
+Warning--entry type for "RSSAB1999" isn't style-file defined
+--line 27 of file Literatur.bib
+Warning--entry type for "JamesRyan2018" isn't style-file defined
+--line 38 of file Literatur.bib
+Warning--entry type for "Heater2018" isn't style-file defined
+--line 82 of file Literatur.bib
+Warning--entry type for "ARD/ZDF-Medienkommission2017" isn't style-file defined
+--line 152 of file Literatur.bib
+Warning--entry type for "YouTubeJung_2011" isn't style-file defined
+--line 162 of file Literatur.bib
+Warning--entry type for "Inc." isn't style-file defined
+--line 173 of file Literatur.bib
+Warning--entry type for "SpotifyAB" isn't style-file defined
+--line 183 of file Literatur.bib
+Warning--entry type for "AudibleGmbH" isn't style-file defined
+--line 193 of file Literatur.bib
+Warning--entry type for "DeezerGmbH" isn't style-file defined
+--line 203 of file Literatur.bib
+Warning--entry type for "BNUG2016" isn't style-file defined
+--line 213 of file Literatur.bib
+Warning--entry type for "MPM2008" isn't style-file defined
+--line 223 of file Literatur.bib
+Warning--entry type for "Apple2001" isn't style-file defined
+--line 234 of file Literatur.bib
+Warning--entry type for "YouTubeLLC" isn't style-file defined
+--line 244 of file Literatur.bib
+Warning--entry type for "YouTubeLLC2005" isn't style-file defined
+--line 254 of file Literatur.bib
+Warning--entry type for "YouTubeMath_2011" isn't style-file defined
+--line 264 of file Literatur.bib
+Warning--entry type for "EduversumGmbH1999" isn't style-file defined
+--line 275 of file Literatur.bib
+Warning--entry type for "TPPM2005" isn't style-file defined
+--line 285 of file Literatur.bib
+Warning--entry type for "FabioBacigalupo2004" isn't style-file defined
+--line 296 of file Literatur.bib
+Warning--entry type for "MozillaFoundation1995" isn't style-file defined
+--line 307 of file Literatur.bib
+Warning--entry type for "Statista2018" isn't style-file defined
+--line 317 of file Literatur.bib
+Warning--entry type for "Newton2018" isn't style-file defined
+--line 329 of file Literatur.bib
+Warning--entry type for "Statista2017" isn't style-file defined
+--line 341 of file Literatur.bib
+Warning--entry type for "Welle2018" isn't style-file defined
+--line 352 of file Literatur.bib
+You've used 35 entries,
+            1935 wiz_defined-function locations,
+            686 strings with 8899 characters,
+and the built_in function-call counts, 9373 in all, are:
+= -- 996
+> -- 245
+< -- 35
++ -- 72
+- -- 70
+* -- 585
+:= -- 1832
+add.period$ -- 131
+call.type$ -- 35
+change.case$ -- 207
+chr.to.int$ -- 35
+cite$ -- 35
+duplicate$ -- 386
+empty$ -- 614
+format.name$ -- 105
+if$ -- 1757
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 13
+newline$ -- 204
+num.names$ -- 105
+pop$ -- 100
+preamble$ -- 1
+purify$ -- 210
+quote$ -- 0
+skip$ -- 334
+stack$ -- 0
+substring$ -- 497
+swap$ -- 10
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 204
+warning$ -- 0
+while$ -- 76
+width$ -- 0
+write$ -- 478
+(There were 25 warnings)
